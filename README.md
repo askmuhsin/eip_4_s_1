@@ -1,4 +1,5 @@
-## Training Metrics
+## Training Metrics     
+[0.03211011555493296, 0.9912]
 
 ## Definitions     
 1. Convolution
